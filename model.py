@@ -14,7 +14,7 @@ class Classifier(nn.Module):
             nn.MaxPool2d(5, 1),
             nn.ReLU(),
             nn.Flatten(),
-            nn.Linear(64, output_size),
+            nn.Linear(57600, output_size),
             nn.Sigmoid()
         )
 
