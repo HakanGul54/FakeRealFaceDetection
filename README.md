@@ -23,7 +23,7 @@ Classifier(
     (6): MaxPool2d(kernel_size=5, stride=1, padding=0, dilation=1, ceil_mode=False)
     (7): ReLU() 
     (8): Flatten(start_dim=1, end_dim=-1)
-    (9): Linear(in_features=64, out_features=2, bias=True)
+    (9): Linear(in_features=57600, out_features=2, bias=True)
     (10): Sigmoid() 
   ) 
 )
