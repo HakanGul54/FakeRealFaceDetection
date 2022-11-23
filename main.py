@@ -41,7 +41,7 @@ def visualize_model(model, data_loader, num_images=6):
                 images_so_far += 1
                 ax = plt.subplot(num_images//2, 2, images_so_far)
                 ax.axis('off')
-                ax.set_title(f'predicted: {preds[j]}, actual: {labels[j]}')
+                ax.set_title(f'predicted: {class_names[preds[j]]}, actual: {class_names[labels[j]]}')
                 imshow(inputs.cpu().data[j])
 
                 if images_so_far == num_images:
