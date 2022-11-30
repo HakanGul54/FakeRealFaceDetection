@@ -78,5 +78,6 @@ Loss: 0.3156 Acc: 99.92%
 ```
 
 ### Result examples, visualized
-![Results](https://user-images.githubusercontent.com/111753936/203431589-73662770-6e40-4e0c-846f-96030d0b6ade.png)
+![Results](https://user-images.githubusercontent.com/111753936/204688863-bbd56091-caf0-4c07-a151-b8a6883d92dc.png)
+
 
