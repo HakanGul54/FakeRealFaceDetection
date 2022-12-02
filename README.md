@@ -1,4 +1,4 @@
-# Detecting AI Generated Faces Among Real Images of Faces
+# Detecting AI Generated Faces Among Real Faces
 
 ## Dataset Used
 ```
