@@ -31,7 +31,7 @@ Classifier(
 
 Loss: `CrossEntropyLoss()`
 <br />
-Optimizer: `Adam(lrning_rate=0.0001, betas=(0.5, 0.999))`
+Optimizer: `Adam(learning_rate=0.0001, betas=(0.5, 0.999))`
 
 ## Results
 Results after training on CUDA with 10 Epochs
